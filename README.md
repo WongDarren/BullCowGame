@@ -15,10 +15,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://reactjs.org/">
+  <a href="https://www.unrealengine.com/en-US/">
     <img src="https://img.shields.io/badge/Unreal%20Engine-4.26-black.svg" alt="unreal version"/>
   </a>
-  <a href="https://reactjs.org/">
+  <a href="https://www.cplusplus.com/">
     <img src="https://img.shields.io/badge/C%2B%2B-11-blue.svg" alt="C++ version"/>
   </a>
 </p>
@@ -39,15 +39,21 @@ Bulls are letters that exist in the hidden isogram and are in the right spot. Co
 
 ## Example 📝
 Hidden Isogram: cakes
+<br/>
 The player gets 10 lives.
-
+<br/>
+<br/>
 Player Input: kites
-
+<br/>
+<br/>
 The game will tell the player:
+<br/>
 2 Bulls and 1 Cow
 
 Explanation:
 2 Bulls because 'e' and 's' exist in both words and are in the same spots
+<br/>
+
 1 Cow because 'k' exists in both words, but is not in the same spot
 
 <hr/>
