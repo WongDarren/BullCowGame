@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <h1>🐂 Bulls and Cows 🐄</h1>
-  <strong>Clothing E-Commerce site</strong>
+  <strong>C++ Unreal Engine Game</strong>
   <br/>
   <br/>
   <img
