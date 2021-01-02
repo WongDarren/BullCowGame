@@ -51,9 +51,7 @@ The game will tell the player:
 2 Bulls and 1 Cow
 
 Explanation:
+<br/>
 2 Bulls because 'e' and 's' exist in both words and are in the same spots
 <br/>
-
 1 Cow because 'k' exists in both words, but is not in the same spot
-
-<hr/>
